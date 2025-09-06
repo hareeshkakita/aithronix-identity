@@ -10,4 +10,5 @@ public class AithronixIdentityApplication {
 		SpringApplication.run(AithronixIdentityApplication.class, args);
 	}
 
+	
 }
